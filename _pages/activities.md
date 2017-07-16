@@ -10,7 +10,7 @@ redirect_from:
 
 Technical Supervision
 ======
-* Technical Supervisor for IBM Ireland - UCD Smurfit School - MSc Business Analytics Project for 2016 & 2017
+* Technical supervisor for IBM Ireland - UCD Smurfit School - MSc Business Analytics Project for 2016 & 2017
 * Technical supervision of I. Lourentzou BSc Thesis "Automated Ad Creative Generation: Information Extraction and Sentiment Analysis" (Supervisor: Prof. M. Vazirgiannis, May 2013)
 * Technical supervision of P. Katsivelis-Perakis MSc Thesis "Automated Ad Creative Generation: Language Modeling and Natural Language Generation for Ad-texts" (Supervisor: Prof. M. Vazirgiannis, February 2013)
 * Technical supervision of K. Leymonis BSc Thesis "Web Interface for Optimizing Online Advertising Campaign Performance" (Supervisor: Prof. M. Vazirgiannis, July 2012)

@@ -9,6 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-CV
-======
+
 * You can find my most up-to-date (July 2017) CV [[here]](https://matinathomaidou.github.io/files/CV_Thomaidou.pdf)
