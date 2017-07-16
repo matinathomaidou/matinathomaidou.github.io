@@ -11,51 +11,29 @@ redirect_from:
 Publications
 ======
 * <b>S. Thomaidou</b>, M. Vazirgiannis, K.Liakopoulos. Toward an Integrated Framework for Automated Development and Optimization of Online Advertising Campaigns. <i>Intelligent Data Analysis Journal. Volume 18(6). November 2014.</i> [[pdf]](http://dl.acm.org/citation.cfm?id=2691107.2691119&coll=DL&dl=GUIDE)
-* <b>S. Thomaidou</b>, I. Lourentzou, P. Katsivelis-Perakis, M. Vazirgiannis. Automated Snippet Generation for Online Advertising. <i>ACM International Conference on Information and Knowledge Management (CIKM'13), San Francisco, USA.</i>[[pdf]](https://matinathomaidou.github.io/files/p1841-thomaidou.pdf)
+* <b>S. Thomaidou</b>, I. Lourentzou, P. Katsivelis-Perakis, M. Vazirgiannis. Automated Snippet Generation for Online Advertising. <i>ACM International Conference on Information and Knowledge Management (CIKM'13), San Francisco, USA.</i>[[pdf]](https://matinathomaidou.github.io/files/p1841-thomaidou.pdf) [[poster]] (https://matinathomaidou.github.io/files/Poster_1437_CIKM13_Thomaidou.pdf) [[slides]] (https://matinathomaidou.github.io/files/Presentation_1437.pdf)
+* S. Thomaidou, K. Leymonis, M. Vazirgiannis. GrammAds: Keyword and Ad Creative Generator for Online Advertising Campaigns. Digital Enterprise Design & Management Conference (DED&M'13), France, Paris. [pdf] [slides]
+* S. Thomaidou, K. Leymonis, K. Liakopoulos, M. Vazirgiannis. AD-MAD: Integrated System for Automated Development and Optimization of Online Advertising Campaigns. IEEE International Conference on Data Mining Workshop (ICDMW'12), Brussels, Belgium. [pdf] [poster] [Demonstration using Adomaton & GrammAds]
+* K. Liakopoulos, S. Thomaidou, M. Vazirgiannis. The Adomaton Prototype: Automated Online Advertising Campaign Monitoring and Optimization. Ad Auctions Workshop, ACM Conference on Electronic Commerce (AAW'12-EC'12), Valencia, Spain. [pdf] [slides]
+* S. Thomaidou, M. Vazirgiannis. Multiword Keyword Recommendation System for Online Advertising. IEEE/ACM International Conference on Advances in Social Network Analysis and Mining (ASONAM'11), Kaohsiung, Taiwan. [pdf] [slides]
 
 
-* M.S. in Jekyll, Github University, 2014(http://academicpages.github.io/files/paper1.pdf)
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
-
-Work experience
+Ph.D. Thesis
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Automated Creation and Optimization of Online Advertising Campaigns. Athens University of Economics and Business. Department of Informatics. October, 2014. [phd thesis] [phd defense]
+* Supported by Ph.D. Research Fund Heracleitus II European Union (European Social Fund - ESF) and Greek national funds through the Operational Program "Education and Lifelong Learning" of the National Strategic Reference Framework (NSRF)
   
-Skills
+Invited Talks
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* S.Thomaidou. Data Science Challenges for Online Advertising. IWD - Data mini-Conference. Dublin, March 2016.
+* S.Thomaidou. Impact of technical sales on IBM's odds to win sales. IBM InterConnect 2015 Dublin.
+* S. Thomaidou, K.Liakopoulos, M. Vazirgiannis. Automatic Advertising Campaign Development. Greek Free / Open Source Software Society (GFOSS) Technical Lab, April 2011. GRNET (Greek Research & Technology Network) [slides]
 
-Publications
+Presentations
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Research and Challenges for Online Advertising: A Survey on Methods and Applications from a Machine Learning Perspective. [slides]
   
-Talks
+Patents
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Identifying experts and areas of expertise in an organization. (M. Platakis, C. Makris, T. Tonnesen Lied, B. Herstad, S. Thomaidou, S. Zitnik. Issued Apr 24, 2015 Patent issuer and number us US20160314122A1.
+* Our AD-MAD software (S.Thomaidou, Ecole Polytechnique - Paris, and CNRS) has been registered in March 2012 at the french agency for software protection (APP) with the Inter Deposit Digital Number IDDN.FR.001.240023.000.S.P.2012.000.10800
