@@ -77,11 +77,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Matina Thomaidou"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Senior Data Scientist. PhD in Machine Learning."
   location         : "Dublin, Ireland"
-  employer         : 
+  employer         : "IBM"
   googlescholar    : "https://scholar.google.gr/citations?user=le0CBRIAAAAJ&hl=en"
   email            : 
   uri              : 
@@ -96,11 +96,11 @@ author:
   keybase          :
   instagram        : 
   lastfm           :
-  linkedin         :
-  orcid            : ""
+  linkedin         : "https://www.linkedin.com/in/matinathomaidou/"
+  orcid            : #""
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : # "http://stackoverflow.com/users/123456/username"
   steam            :
   tumblr           :
   twitter          : "matinathom"
