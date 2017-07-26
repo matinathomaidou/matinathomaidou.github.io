@@ -17,6 +17,9 @@ Publications
 * <b>S. Thomaidou</b>, K. Leymonis, M. Vazirgiannis. GrammAds: Keyword and Ad Creative Generator for Online Advertising Campaigns. <i>Digital Enterprise Design & Management Conference (DED&M'13), France, Paris.</i>
 [[pdf]](https://matinathomaidou.github.io/files/dedm2013_thomaidou.pdf)
 [[slides]](https://matinathomaidou.github.io/files/DEDM2013_slides.pdf)
+[[Demo: Visualizing Traffic Optimization]](https://vimeo.com/55846155)
+[[Demo: Traffic Optimization Demonstration]](https://vimeo.com/55846086)
+[[Demo: GrammAds Demonstration]](https://vimeo.com/46645462)
 * <b>S. Thomaidou</b>, K. Leymonis, K. Liakopoulos, M. Vazirgiannis. AD-MAD: Integrated System for Automated Development and Optimization of Online Advertising Campaigns. <i>IEEE International Conference on Data Mining Workshop (ICDMW'12), Brussels, Belgium.</i> 
 [[pdf]](https://matinathomaidou.github.io/files/ICDM12_Thomaidou_DemoD3.pdf)
 [[poster]](https://matinathomaidou.github.io/files/ICDM12_Thomaidou_PosterD3.pdf)
