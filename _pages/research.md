@@ -52,6 +52,6 @@ Presentations
   
 Patents
 ======
-* Identifying experts and areas of expertise in an organization. (M. Platakis, C. Makris, T. Tonnesen Lied, B. Herstad, <b>S. Thomaidou</b>, S. Zitnik. Issued Apr 24, 2015 Patent issuer and number us US20160314122A1.
+* Identifying experts and areas of expertise in an organization. (M. Platakis, C. Makris, T. Tonnesen Lied, B. Herstad, <b>S. Thomaidou</b>, S. Zitnik). Issued Apr 24, 2015 Patent issuer and number us US20160314122A1.
 * Our AD-MAD software (<b>S.Thomaidou</b>, Ecole Polytechnique - Paris, and CNRS) has been registered in March 2012 at the french agency for software protection (APP) with the Inter Deposit Digital Number IDDN.FR.001.240023.000.S.P.2012.000.10800
 
