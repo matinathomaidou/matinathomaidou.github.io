@@ -41,6 +41,7 @@ Ph.D. Thesis
 Invited Talks
 ======
 * <b>S.Thomaidou</b>. Data Science Challenges for Online Advertising. <i>IWD - Data mini-Conference. Dublin, March 2016.</i>
+[[slides]](https://matinathomaidou.github.io/files/Data Science Challenges for Online Advertising_v1.pdf)
 * <b>S.Thomaidou</b>. Impact of technical sales on IBM's odds to win sales. <i>IBM InterConnect 2015 Dublin.</i>
 * <b>S. Thomaidou</b>, K.Liakopoulos, M. Vazirgiannis. Automatic Advertising Campaign Development. <i>Greek Free / Open Source Software Society (GFOSS) Technical Lab, April 2011. GRNET (Greek Research & Technology Network)</i>
 [[slides]](https://matinathomaidou.github.io/files/opa-auto_advertizing_campain_dev.pdf)
