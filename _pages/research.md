@@ -40,6 +40,7 @@ Ph.D. Thesis
   
 Invited Talks
 ======
+* <b>S.Thomaidou</b>. Her plus Data Meetup. <i>Dublin, November 2017.</i>
 * <b>S.Thomaidou</b>. Data Science Challenges for Online Advertising. <i>IWD - Data mini-Conference. Dublin, March 2016.</i>
 [[slides]](https://matinathomaidou.github.io/files/Data Science Challenges for Online Advertising_v1.pdf)
 * <b>S.Thomaidou</b>. Impact of technical sales on IBM's odds to win sales. <i>IBM InterConnect 2015 Dublin.</i>

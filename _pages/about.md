@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am Matina, a Senior Data Scientist, member of the Data Science & Optimization Global Team - Innovation Lab of IBM Digital Business Group. In this role, I focus on the development, deployment, scalability, and experimental design of our Data Science insights.
+I am Matina, a Marketing Science Auction Expert at Facebook, helping clients to strategically optimize their performance in the Ad Auction. 
 
-Prior to IBM, I worked at Accenture, Microsoft, and Laboratoire d'Informatique de l'Ecole Polytechnique, where I was involved in projects for helping clients improve the performance of their digital channels, developing solutions for Big Data analysis, and extending the capabilities of a prototype Real Time Bidder into a scalable architecture. I was also a Researcher and Teaching Assistant in the courses of Data Science, Data and Web Mining, Machine Learning, Algorithms, and Data Structures at Athens University of Economics and Business.
+Prior to Facebook, I worked at IBM Ireland as Data Science Leader for Europe, Accenture Greece, Microsoft Norway, and Ecole Polytechnique in France, leading data science and business insights projects.
 
-I hold a Ph.D. in Machine Learning and Data Mining from Athens University of Economics and Business with main research focus on Machine Learning Methods for Online Advertising Campaigns and expertise in the areas of search/contextual advertising and text mining. I received my M.Sc. degree in Information Systems from the Department of Informatics of Athens University of Economics and Business and my B.Sc. degree in Computer Science from the Department of Informatics and Telecommunications of National and Kapodistrian University of Athens.
+I hold a Ph.D. in Machine Learning for Online Advertising from Athens University of Economics and Business with main research focus on Machine Learning and Optimization Methods for Online Advertising Campaigns and expertise in the areas of ad auctions, computational advertising, and text mining. I received my M.Sc. degree in Business Information Systems from the Department of Informatics of Athens University of Economics and Business and my B.Sc. degree in Computer Science from the Department of Informatics and Telecommunications of National and Kapodistrian University of Athens.
