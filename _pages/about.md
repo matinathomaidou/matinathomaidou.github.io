@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Matina, a Marketing Science Auction Expert at Facebook, helping clients to strategically optimize their performance in the Ad Auction. 
+Marketing Science Auction Expert at Facebook, leading the build-out of innovative analytical and strategic initiatives in order to scale ad auction insights and recommendations to clients globally.
 
 Prior to Facebook, I worked at IBM Ireland as Data Science Leader for Europe, Accenture Greece, Microsoft Norway, and Ecole Polytechnique in France, leading data science and business insights projects.
 
