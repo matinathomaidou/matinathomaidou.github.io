@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Marketing Science Auction Expert at Facebook, leading the build-out of innovative analytical and strategic initiatives in order to scale ad auction insights and recommendations to clients globally.
+Data Scientist at Facebook, leading the build-out of innovative analytical and strategic initiatives in order to scale ad auction insights and recommendations to clients globally.
 
 Prior to Facebook, I worked at IBM Ireland as Data Science Leader for Europe, Accenture Greece, Microsoft Norway, and Ecole Polytechnique in France, leading data science and business insights projects.
 
