@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Insights Leader with 10 years of experience. Data Scientist at Facebook, leading the build-out of innovative analytical and strategic initiatives in order to scale ad auction insights and recommendations to clients globally. 
+Director of Customer Success at wappier, leading an amazing team on enabling the success of our mobile games and apps clients through the power of AI.
 
-Prior to Facebook, worked at IBM Ireland as Data Science Leader for Europe, Accenture Greece, Microsoft Norway, and Ecole Polytechnique in France, leading data science and business insights projects. 
+Prior to wappier, worked at Facebook Ireland (Ads, Data Science, Gaming), IBM Ireland as Data Science Leader for Europe, Accenture Greece, Microsoft Norway, and Ecole Polytechnique in France, leading data science and business insights projects. 
 
-Leader of Lean In Greece: Women in Tech Global Circle. Mentor at Women On Top. 
+Leader of Lean In Greece: Women in Tech Global Circle.

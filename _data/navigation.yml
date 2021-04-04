@@ -4,7 +4,4 @@ main:
     url: /research/
 
   - title: "Activities"
-    url: /activities/    
-    
-  - title: "CV"
-    url: /cv/
+    url: /activities/
