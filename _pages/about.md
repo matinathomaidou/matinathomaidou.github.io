@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Director of Customer Success at wappier, leading an amazing team on enabling the success of our mobile games and apps clients through the power of AI.
+VP, Head of Data Science at Dataseat (Verve Group). 
 
-Prior to wappier, worked at Facebook Ireland (Ads, Data Science, Gaming), IBM Ireland as Data Science Leader for Europe, Accenture Greece, Microsoft Norway, and Ecole Polytechnique in France, leading data science and business insights projects. 
+Prior to Dataseat, worked at Facebook Ireland (Ads, Data Science, Gaming), IBM Ireland as Data Science Leader for Europe, Accenture Greece, Microsoft Norway, and Ecole Polytechnique in France, leading data science and business insights projects, teams, and groups. PhD in Machine Learning. 
 
-Leader of Lean In Greece: Women in Tech Global Circle.
+Co-Founder of Greek Women Do Tech.
