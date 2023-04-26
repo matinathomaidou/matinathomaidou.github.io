@@ -8,6 +8,16 @@ redirect_from:
 
 {% include base_path %}
 
+
+AI Science and Philosophy Series" by Dr. Matina Thomaidou
+======
+Read here https://matinathomaidou.substack.com/ the "AI Science and Philosophy Series" by Dr. Matina Thomaidou: Exploring the Capabilities, Ethics, Limitations, and Potential of Artificial Intelligence
+
+DoTech Academy by Greek Women Do Tech (Dr. Matina Thomaidou is the Co-Founder)
+======
+* https://www.dotech.academy/
+* https://www.greekwomendo.tech/
+
 Technical Supervision
 ======
 * Technical supervisor for IBM Ireland - UCD Smurfit School - MSc Business Analytics Project for 2016 & 2017
