@@ -9,14 +9,15 @@ redirect_from:
 {% include base_path %}
 
 
-AI Science and Philosophy Series" by Dr. Matina Thomaidou
+AI Science and Philosophy Series
 ======
-Read here https://matinathomaidou.substack.com/ the "AI Science and Philosophy Series" by Dr. Matina Thomaidou: Exploring the Capabilities, Ethics, Limitations, and Potential of Artificial Intelligence
+Read here [https://matinathomaidou.substack.com/](https://matinathomaidou.substack.com/) the "AI Science and Philosophy Series" by Dr. Thomaidou: Exploring the Capabilities, Ethics, Limitations, and Potential of Artificial Intelligence
 
-DoTech Academy by Greek Women Do Tech (Dr. Matina Thomaidou is the Co-Founder)
+DoTech Academy by Greek Women Do Tech
 ======
-* https://www.dotech.academy/
-* https://www.greekwomendo.tech/
+Dr. Thomaidou is also the Co-Founder of Greek Women Do Tech, an NGO that represents a global network aiming to connect, inspire, motivate & empower Greek Women working in Tech fields, based all over the world.
+* [https://www.dotech.academy/](https://www.dotech.academy/)
+* [https://www.greekwomendo.tech/](https://www.greekwomendo.tech/)
 
 Technical Supervision
 ======

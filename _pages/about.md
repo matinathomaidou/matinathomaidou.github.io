@@ -14,4 +14,4 @@ Prior to Dataseat, worked at Facebook Ireland (Ads, Data Science, Gaming), IBM I
 
 Co-Founder of Greek Women Do Tech.
 
-Read here https://matinathomaidou.substack.com/ the "AI Science and Philosophy Series" by Dr. Matina Thomaidou: Exploring the Capabilities, Ethics, Limitations, and Potential of Artificial Intelligence
+Read here [https://matinathomaidou.substack.com](https://matinathomaidou.substack.com/) the "AI Science and Philosophy Series" by Dr. Matina Thomaidou: Exploring the Capabilities, Ethics, Limitations, and Potential of Artificial Intelligence
